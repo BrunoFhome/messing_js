@@ -1,0 +1,20 @@
+.container{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+    background-color: antiquewhite;
+    flex-direction: column;
+}
+
+.result{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 165, 47);
+    flex-direction: column;
+    margin: 20px;
+}
